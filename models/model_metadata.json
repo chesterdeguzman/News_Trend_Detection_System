@@ -1,0 +1,6 @@
+{
+  "articles_used": 5121,
+  "clusters": 8,
+  "tfidf_features": 584,
+  "random_state": 42
+}
